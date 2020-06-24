@@ -1,11 +1,11 @@
 #------------------------------------------------------------------------------
 # General
 #------------------------------------------------------------------------------
-name: "Minimal-Block"
-description: "Minimalistic, friendly, responsive."
+name: "Neonnsoft devlog"
+description: "Stay up to date with what's going on at Neonnsoft."
 language: "en"
 
-url: http://localhost:4000
+url: blog.neonnsoft.com
 baseurl: ''
 
 #------------------------------------------------------------------------------
@@ -22,7 +22,7 @@ kramdown:
 #------------------------------------------------------------------------------
 # Pagination and friendly URLs
 #------------------------------------------------------------------------------
-paginate: 2
+paginate: 3
 paginate_path: /page-:num
 permalink: /:title
 
@@ -33,7 +33,7 @@ disqus-id: yourusername
 
 enable-share: true
 twitter: yourusername
-github: yourusername
+github: iamsegfault
 google: +yourusername
 
 rss-feed-limit: 10
