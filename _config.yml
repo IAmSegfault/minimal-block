@@ -5,8 +5,8 @@ name: "Neonnsoft devlog"
 description: "Stay up to date with what's going on at Neonnsoft."
 language: "en"
 
-url: "https://blog.neonnsoft.com"
-baseurl: "/"
+url: https://blog.neonnsoft.com
+baseurl: ''
 
 #------------------------------------------------------------------------------
 # Markdown processor and code highlighting
