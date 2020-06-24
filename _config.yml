@@ -5,7 +5,7 @@ name: "Neonnsoft devlog"
 description: "Stay up to date with what's going on at Neonnsoft."
 language: "en"
 
-url: blog.neonnsoft.com
+url: https://blog.neonnsoft.com
 baseurl: ''
 
 #------------------------------------------------------------------------------
