@@ -44,7 +44,7 @@ rss-show-full: false
 #------------------------------------------------------------------------------
 source: .
 destination: ./_site
-gems: ['jekyll-paginate']
+gems: ['jekyll-paginate', 'github-pages']
 
 sass:
     style: :compressed
